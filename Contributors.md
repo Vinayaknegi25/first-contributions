@@ -1,5 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+- [Vinayak Negi] (https://github.com/Vinayaknegi25)
 - [Gallant farhan] (https://github.com/Gallantfarhan)
 - [Roshan Gamage] (https://github.com/RoshanGamage01)
 - [Ajit J Gupta] (https://github.com/ajitg25)
